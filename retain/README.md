@@ -1,5 +1,3 @@
 # Udacity Retain
 
-This is an example from Udacity's [Javascript Design Patterns course](https://www.udacity.com/course/javascript-design-patterns--ud989) for how to use MV* frameworks.
-
-Clone the repo and open up `index.html` in your browser of choice.
+裡面有兩個JS檔,answer為課程所給的檔案,而另一個是依照他給的MV*概念去重寫一次
