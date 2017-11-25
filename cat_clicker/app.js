@@ -42,7 +42,7 @@ var app = {
 	         	 			'<h2>'+ data.name+'</h2>' + 
 	         	 		    '<span class="counter">'+ data.click+'</span>clicks' + 
 	         	 		    '<br>'+
-	         	 		    '<img id="img_'+ data.name+'" src='"./"+data.pic+'>'
+	         	 		    '<img id="img_'+ data.name+'" src='+data.pic+'>'
 	         	 		'</div>';
 	         	$('.catSection').html(html);
 	         	app.control.counts(data.name);
